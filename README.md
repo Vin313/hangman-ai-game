@@ -28,8 +28,7 @@ A Streamlit web application that allows users to play the classic Hangman game w
 
 1. Clone or download this repository to your local machine.
 
-2. Navigate to the project directory:
-   cd hangman-game-ai
+2. Navigate to the project directory
 
 3. Install the required dependencies:
     pip install -r requirements.txt
