@@ -36,3 +36,7 @@ A Streamlit web application that allows users to play the classic Hangman game w
 4. Running the Application
     Start the Streamlit application:
     streamlit run hangman_app.py
+
+<img width="1822" height="846" alt="image" src="https://github.com/user-attachments/assets/c21e3a6d-fdca-424d-a98d-30c54765e947" />
+<img width="1796" height="817" alt="image" src="https://github.com/user-attachments/assets/dd319c89-c48b-48c7-9ec7-3d6dc460ff3a" />
+
